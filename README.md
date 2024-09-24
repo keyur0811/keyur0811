@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring and learning about **Cloud applications & Technologies**
 
-- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
+<!-- - 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects) -->
 
 - 📫 How to reach me **keyurambekar@gmail.com**
 

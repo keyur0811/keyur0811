@@ -176,7 +176,7 @@ Designed and built a personal homelab using a repurposed laptop as a Proxmox VE 
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 *"The network doesn't lie. Read the logs."*
 

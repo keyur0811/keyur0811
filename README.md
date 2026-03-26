@@ -25,8 +25,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## ◈ About Me
@@ -38,8 +36,6 @@ Computer Engineering graduate with **3 years of professional web design experien
 I'm drawn to the layers beneath the interface, how packets move, how services scale, how systems stay up. My homelab is always running something new, and every problem I hit gets written down.
 
 Most of what I know I try to put in this GitHub as actual labs, configs, and runbooks, not just a skills list.
-
-<br/>
 
 ---
 
@@ -88,8 +84,6 @@ Most of what I know I try to put in this GitHub as actual labs, configs, and run
 </tr>
 </table>
 
-<br/>
-
 ---
 
 ## ◈ Focus Areas
@@ -103,8 +97,6 @@ Most of what I know I try to put in this GitHub as actual labs, configs, and run
   WEB DEVELOPMENT     →   React · Angular · Node.js · HTML/CSS/Bootstrap
 ```
 
-<br/>
-
 ---
 
 ## ◈ Certifications
@@ -116,8 +108,6 @@ Most of what I know I try to put in this GitHub as actual labs, configs, and run
 <!-- | 📡 | **AWS Associate Architect** | AWS | `Planned` | -->
 
 > Pursuing A+ first to solidify hardware and OS fundamentals, then Network+ for a formal networking credential.
-
-<br/>
 
 ---
 
@@ -134,8 +124,6 @@ Most of what I know I try to put in this GitHub as actual labs, configs, and run
 ```
 
 💡 *If you want to understand how I approach problem-solving, start here.*
-
-<br/>
 
 ---
 
@@ -158,8 +146,6 @@ Designed and built a personal homelab using a repurposed laptop as a Proxmox VE 
 
 > A homelab is where theory becomes muscle memory.
 
-<br/>
-
 ---
 
 ## ◈ Education
@@ -170,7 +156,6 @@ Designed and built a personal homelab using a repurposed laptop as a Proxmox VE 
 | Bachelor of Engineering - Computer Engineering | India | `2020` |
 | Web Designer - Industry Experience (3 years) | Professional | `2020–2023` |
 
-<br/>
 
 ---
 
@@ -191,7 +176,7 @@ Designed and built a personal homelab using a repurposed laptop as a Proxmox VE 
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 *"The network doesn't lie. Read the logs."*
 
